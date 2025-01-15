@@ -1,2 +1,2 @@
 # SingleResponsibility-Book
- Single Responsibility Book Example
+ Single Responsibility Book Principle Example
